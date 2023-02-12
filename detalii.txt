@@ -1,0 +1,2 @@
+Testele sunt in Test.cpp, la inceput, apoi apelate in main (LAB10.cpp)
+Functia delete_t e in service.cpp, la sfarsit
